@@ -16,14 +16,13 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ## Slides
 
-- [Opening Slides](https://slides.com/moonhighway/space-camp-schema-design)
-- [Interfaces & Unions Slides](https://slides.com/moonhighway/space-camp-schema-design#/32)
+- [Opening Slides](https://slides.com/moonhighway/schema-design-1a1232/)
 
 ## Schema Project
 
 We have a few iterations of this project saved as branches.
 
-- [Starting Slides](https://github.com/MoonHighway/pet-library-schema)
+- [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
@@ -43,11 +42,6 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 
 - [Schema Definition Language - GraphQL Docs](https://graphql.org/learn/schema/)
 - [Schema Definition Language - Apollo Docs](https://www.apollographql.com/docs/apollo-server/schema/schema/)
-- [Graph Manager](https://www.apollographql.com/docs/graph-manager/)
 - [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 - [Production Ready GraphQL book](https://productionreadygraphql.com/)
 - [Designing GraphQL Schemas, egghead.io](https://egghead.io/courses/designing-graphql-schemas-99db)
-
-## Evaluation!
-
-- [Quick anonymous evaluation](https://docs.google.com/forms/d/e/1FAIpQLSfJVsG3ML6yxxB2fTU6nPoRYFwzYIygSW4WIEnYAGI4qJvjTw/viewform?usp=sf_link)
