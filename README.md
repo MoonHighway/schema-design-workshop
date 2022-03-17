@@ -27,7 +27,7 @@ We have a few iterations of this project saved as branches.
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
-_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
+_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/musing-panka-yb450k)_
 
 ## Schema Lab
 
