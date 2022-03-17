@@ -17,6 +17,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 ## Slides
 
 - [Opening Slides](https://slides.com/moonhighway/schema-design-1a1232/)
+- [Advanced Slides](https://slides.com/moonhighway/apollo-schema-design-advanced)
 
 ## Schema Project
 
