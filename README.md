@@ -45,8 +45,8 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 - [Pet Schema](https://github.com/MoonHighway/federated-mock-pets-sample)
 - [Customer Schema](https://github.com/MoonHighway/federated-customers-mock-sample)
 
-## Next Steps, Other Resources
+## Other Resources
 
 - [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 - [Production Ready GraphQL book](https://productionreadygraphql.com/)
-- [Designing GraphQL Schemas, egghead.io](https://egghead.io/courses/designing-graphql-schemas-99db)
+- [Example Style Guide - Yelp](https://yelp.github.io/graphql-guidelines/schema-design.html)
