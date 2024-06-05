@@ -22,7 +22,6 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 - [Snowtooth API](https://gist.github.com/eveporcello/26f78a0a6a881c201e5d28cd9f83eb9a)
 - [Camp Lambda API](https://gist.github.com/eveporcello/09109f82d5e4582a80bd8a8036414675)
-- [Star Wars API](https://gist.github.com/eveporcello/4151180be22600abc10a9d6c19a2136e)
 - [Countries API](https://gist.github.com/eveporcello/e5e28ca1dcad0998555156db7300dd71)
 
 ## Schema Project
