@@ -48,3 +48,4 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 - [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 - [Production Ready GraphQL book](https://productionreadygraphql.com/)
 - [Example Style Guide - Yelp](https://yelp.github.io/graphql-guidelines/schema-design.html)
+- [Relay Connection Spec](https://relay.dev/graphql/connections.htm)
