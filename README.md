@@ -15,8 +15,7 @@ Welcome! We're really glad that you're here. Below you'll find all of the resour
 
 ## Slides
 
-- [Opening Slides](https://slides.com/moonhighway/schema-definition-language)
-- [Advanced Slides](https://slides.com/moonhighway/apollo-schema-design-advanced)
+- [Slides](https://slides.com/moonhighway/schema-definition-language)
 
 ## Sample Schemas
 
@@ -32,7 +31,7 @@ We have a few iterations of this project saved as branches.
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
-_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
+_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema). Or just use the `sample.graphql` file.
 
 ## Pet Library Info
 
